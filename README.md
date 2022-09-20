@@ -1,2 +1,10 @@
 # Flipcart-clone-css
-Created a simple e-commerce web page.
+This is my first HTML5 and CSS project.
+## output
+<img src="screenshot/img1.png"></img>
+
+### Requirments
+* HTML5/HTML
+* CSS3
+
+
